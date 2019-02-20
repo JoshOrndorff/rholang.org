@@ -1,0 +1,14 @@
+#cta {
+  width: 400px;
+  height: 100px;
+  background: #c25d02;
+  border-radius: 10px;
+  text-align: center;
+  vertical-align: middle;
+  padding-top: 3rem;
+}
+
+
+#cta a {
+  font-size: 4rem;
+}
